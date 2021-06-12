@@ -1,5 +1,6 @@
 # DevTexchecker
-mod製作向けテクスチャチェッカー(CTM非対応)
+超即席mod製作向けテクスチャチェッカー(CTM非対応)
+32x32向け(16x16でも行ける)
 
 # 使い方 How to use
 
