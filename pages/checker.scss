@@ -1,0 +1,15 @@
+#box{
+    max-width: 1400px;
+    margin: 0 auto;
+    .box{
+		display:inline-block;
+        width: 128px;
+        height: 128px;
+    }
+}
+
+@for $i from 1 to 100{
+    #box div:nth-child(#{$i}){
+        background-image: url("/textures/#{$i}.png");
+    }
+}
